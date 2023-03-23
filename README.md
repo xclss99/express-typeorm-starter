@@ -1,6 +1,6 @@
 # Express TypeORM Starter
 
-TypeScript + Express + TypeORM + RoutingControllers + MySQL
+TypeScript + Express + TypeORM + RoutingControllers + MariaDB
 
 ## Project Setup
 
