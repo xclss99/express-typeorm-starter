@@ -1,4 +1,4 @@
-# Auth API Server
+# Express TypeORM Starter
 
 TypeScript + Express + TypeORM + RoutingControllers + MySQL
 
